@@ -1,4 +1,4 @@
-# smart-dustbin-using-esp8266
+
 # Smart Dustbin using ESP8266
 
 This is an automatic smart dustbin project that uses an ultrasonic sensor and ESP8266 to detect the user’s hand and open the lid automatically. It provides a completely touchless waste-disposal system and improves hygiene.
